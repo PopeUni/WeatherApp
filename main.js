@@ -4,21 +4,6 @@
 //const url = "https://api.openweathermap.org/data/2.5/weather?q="+query+"&units="+units+"&appid="+apiKey
 
 
-// async function amandaAPI() {
-//     let url = 'http://temanceo.rpgroup.co.id/api/sales?PTcode=BIG&category=POS&fromdate=2021-12-31&todate=2022-03-04&customercode=K-LFBBQM';
-//     try {
-//         let res = await fetch(url);
-//         console.log(res.json())
-//
-//     } catch (error) {
-//         console.log(error);
-//     }
-// }
-
-
-
-
-
 
 
 const api = {
